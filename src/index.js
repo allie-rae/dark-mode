@@ -7,6 +7,8 @@ import Navbar from "./components/Navbar";
 
 import "./styles.scss";
 
+
+// This app looks really cool
 const App = () => {
   const [coinData, setCoinData] = useState([]);
 
